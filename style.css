@@ -27,11 +27,9 @@ header {
     font-weight: 700;
     font-size: 1.8em;
 }
-
 .logo span{
     color: blueviolet;
 }
-
 .navigation a{
     color: #3a6cf4;
     text-decoration: none;
